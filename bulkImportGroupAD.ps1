@@ -1,7 +1,7 @@
 ﻿$csvPath    = "importFile.csv"
 $outputPath = "C:\FailedUsers.csv"
 
-$groupName = "(INSERT GROUP NAMe)"
+$groupName = "(INSERT GROUP NAME)"
 
 $failedUsers = @()
 $successCount = 0
